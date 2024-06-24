@@ -3,3 +3,21 @@ body {
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-image: url(images/photo-1533460004989-cef01064af7e.avif);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
