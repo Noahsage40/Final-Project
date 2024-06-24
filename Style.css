@@ -33,9 +33,9 @@ nav ul {
 }
 
 .button {
-    display: inline-block;
+    display: block;
+    margin: 0 auto 20px;
     padding: 10px 20px;
-    margin: 20px 0;
     background-color: green;
     color: white;
     text-decoration: none;
