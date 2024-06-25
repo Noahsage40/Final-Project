@@ -20,7 +20,6 @@ header {
 nav ul {
     list-style-type: none;
     padding: 0;
-    text-align: center;
 }
 
 #hero {
@@ -128,13 +127,4 @@ footer {
 
 figcaption {
     color: black;
-}
-
-#hero p {
-    margin-top: 10px;
-    font-size: 1.2em;
-}
-
-#hero img {
-    max-width: 100%;
 }
