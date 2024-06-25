@@ -42,3 +42,15 @@ nav ul {
     font-weight: bold;
     border-radius: 5px;
 }
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
