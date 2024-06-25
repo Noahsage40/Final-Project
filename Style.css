@@ -68,3 +68,8 @@ header {
     color: #4CAF50;
     margin-bottom: 10px;
 }
+
+#about p {
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
